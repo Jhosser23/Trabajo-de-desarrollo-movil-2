@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Elemento uno",
+    "descripcion": "Descripción larga del elemento uno...",
+    "urlImagen": "https://via.placeholder.com/100",
+    "mostrarTodo": false
+  },
+  {
+    "id": 2,
+    "titulo": "Elemento dos",
+    "descripcion": "Otra descripción uno dos 3 a4...",
+    "urlImagen": "https://via.placeholder.com/100",
+    "mostrarTodo": true
+  },
+  {
+    "id": 3,
+    "titulo": "Elemento tres",
+    "descripcion": "Descripción del elemento tres, que es aún más larga para probar el ver más/ver menos.",
+    "urlImagen": "https://via.placeholder.com/100",
+    "mostrarTodo": false
+  },
+  {
+    "id": 4,
+    "titulo": "Elemento cuatro",
+    "descripcion": "Cuarta descripción para la lista de elementos.",
+    "urlImagen": "https://via.placeholder.com/100",
+    "mostrarTodo": false
+  }
+]
